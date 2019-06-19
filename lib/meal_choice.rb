@@ -4,4 +4,4 @@ def meal_choice(veg1, veg2, protein = "meat")
   puts "What a nutritious meal!"
 end
 
- return meal_choice("broccoli", "macaroni")
+meal_choice("broccoli", "macaroni")
